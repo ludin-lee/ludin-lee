@@ -12,8 +12,7 @@
 </div>
 
 <br>
-<br>
-<br>
+
 
 <div align=center><h2>📚 Tech Skills 📚</h2> </div>
 
@@ -24,7 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 </div>
-<br>
+
 <div align=center><h3>Framework & Library </h3>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -41,7 +40,7 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
 </p>
 </div>
-<br>
+
 
 <div align=center><h3> Server</h3>
 <p>
@@ -50,7 +49,7 @@
 <img src="https://img.shields.io/badge/WindowsServer-0078D4?style=flat-square&logo=Windows&logoColor=white"/>
 </p>
 </div>
-<br>
+
 
 <div align=center><h3>DevOps</h3>
 <p>
@@ -65,7 +64,7 @@
 <img src="https://img.shields.io/badge/AlibabaCloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
 </p>
 </div>
-<br>
+
 
 <div align=center><h3> DB</h3>
 <p>
@@ -74,7 +73,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 </p>
 </div>
-<br>
+
 
 <div align=center><h3>On-Premise </h3>
 <p>
@@ -82,7 +81,7 @@
 <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=Fortinet&logoColor=white"/>
 </p>
 </div>
-<br>
+
 
 
 
