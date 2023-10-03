@@ -1,6 +1,6 @@
 <p align="center"><strong>💖Welcome My GitHub!💖</strong></p>
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&text=Ludin%27s%20World&fontSize=80&theme=gruvbox_light&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&text=Ludin%27s%20World&fontSize=80&theme=gruvbox_light&animation=fadeIn" />
 </div>
 
 
