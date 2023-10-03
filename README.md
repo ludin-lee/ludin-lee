@@ -1,5 +1,7 @@
 <p align="center" font-size=><strong>  💖Welcome My GitHub!💖</strong></p>
-![header](https://capsule-render.vercel.app/api?text=Welcome to Ludin's World&type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&text=Ludin%27s%20World&fontSize=80&theme=gruvbox_light" />
+</div>
 
 
 <div align=center>
