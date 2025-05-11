@@ -61,13 +61,7 @@
 <div align=center><h3>DevOps</h3>
 <p>
 <img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"/>
-    <br>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS -527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"/>
-  <br>
+<br>
 <img src="https://img.shields.io/badge/AlibabaCloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
 </p>
 </div>
@@ -75,6 +69,7 @@
 
 <div align=center><h3> DB</h3>
 <p>
+<img src="https://img.shields.io/badge/PostgresSQL-4169E1?style=flat-square&logo=PostgresSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
