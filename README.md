@@ -1,4 +1,4 @@
-<div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fludin-lee%2Fhit-counter&count_bg=%23000000&title_bg=%23FF6565&icon=&icon_color=%23E7E7E7&title=%E2%9D%A4Today&edge_flat=false"/></a></div>
+<div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" /></a></div>
 <p align="center"><strong>💖Welcome My GitHub!💖</strong></p>
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=auto&text=Ludin%20World&fontSize=80&descSize=0" />
